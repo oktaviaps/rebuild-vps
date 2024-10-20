@@ -1,2 +1,3 @@
-# rebuild-vps
-This is a tool to rebuild a VPS directly on the VPS without having to contact the VPS provider or panel
+### rebuild-vps
+
+``wget https://raw.githubusercontent.com/oktaviaps/rebuild-vps/main/uinstal ; chmod 777 * ; ./uinstal``
